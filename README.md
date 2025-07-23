@@ -1,2 +1,2 @@
-# UMDA-A-lightweight-and-efficient-crack-segmentation-model
+# UMDA: A lightweight and efficient crack segmentation model
 A lightweight and efficient crack segmentation model
